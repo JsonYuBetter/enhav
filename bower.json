@@ -1,0 +1,20 @@
+{
+  "name": "enhav",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "authors": [
+    "Apache Cordova Team"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "botstrap": "bootsrap#*"
+  }
+}
